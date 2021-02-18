@@ -1,5 +1,5 @@
 {
-  "name": "@Brightmd/angular-gettext-cli",
+  "name": "@brightmd/angular-gettext-cli",
   "version": "1.1.2",
   "description": "A command line interface for angular gettools",
   "bin": {
